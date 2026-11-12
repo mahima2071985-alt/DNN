@@ -1,15 +1,6 @@
 # RNN – Lesson 2: Architecture, Unrolling and Matrix Calculations
 
-## 1. Learning objectives
 
-By the end of this lesson, you should be able to:
-- Identify the input, hidden, and output parts of a basic RNN.
-- Understand how an RNN is unrolled across time steps.
-- Explain why the same weights are reused at every time step.
-- Identify the dimensions of RNN matrices and vectors.
-- Calculate hidden states using matrix multiplication.
-
----
 
 ## 2. Basic RNN architecture
 
@@ -228,16 +219,3 @@ Together, they calculate the new hidden state $h_2$.
 
 ---
 
-## 10. Day 2 completion checklist
-
-- [x] Understand the basic RNN architecture.
-- [x] Understand unrolling through time.
-- [x] Understand weight sharing.
-- [x] Identify matrix and vector dimensions.
-- [x] Perform matrix multiplication.
-- [x] Calculate $h_1$ and $h_2$.
-- [x] Understand the basic output calculation.
-
-**Day 2 completed.**
-
-**Next lesson:** Day 3 – RNN Forward Propagation, Output and Loss.
